@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/tannuchoudhary/tannuchoudhary/master/assest/hello.gif" alt="hello" /> </p>
+
 <h1 align="center">Hi 👋, I'm Tannu Kumari</h1>
 
 
@@ -47,7 +47,7 @@ Thanks!! ✌️
 <a href="https://www.linkedin.com/in/tannu-kumari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tannuchoudhary" height="30" width="30" /></a>
 
 
-<a href="https://leetcode.com/vrindagupta/">
+<a href="https://leetcode.com/tannu_kumari/">
   <img align="center" alt="Tannu's Leetcode" width="22px" src="https://leetcode.com/tannu_kumari/" />
 </a>
 </p>
