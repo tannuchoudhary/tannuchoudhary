@@ -62,11 +62,12 @@ I'm an Undergraduate Student currently Pursuing a Bachelors in Information Techn
 <br />
 <br />
 
+Thanks!! ✌️
 <p align="center">
 
 <a href="https://www.linkedin.com/in/tannu-kumari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tannuchoudhary" height="30" width="30" /></a>
 
-Thanks!! ✌️
+
 
 </a>
 </p>
