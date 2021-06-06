@@ -18,8 +18,7 @@
 I'm an Undergraduate Student currently Pursuing a Bachelors in Information Technology from University College of Engineering and Technology.I'm a competitive programmer who loves coding in C++ along with other languages like C and Python. I'm passionate about Problem solving, and Web Development.
 
 
-## Metrics
-![Metrics](https://github.com/tannuchoudhary/tannuchoudhary/blob/main/github-metrics.svg)
+
 
 ## Languages and Tools  
 
@@ -48,7 +47,7 @@ I'm an Undergraduate Student currently Pursuing a Bachelors in Information Techn
 </p>
 
 
-Thanks!! ✌️
+
 
 <!--
 <a href=https://github-readme-stats.vercel.app">
@@ -67,7 +66,7 @@ Thanks!! ✌️
 
 <a href="https://www.linkedin.com/in/tannu-kumari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tannuchoudhary" height="30" width="30" /></a>
 
-
+Thanks!! ✌️
 
 </a>
 </p>
