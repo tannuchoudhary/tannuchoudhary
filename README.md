@@ -38,36 +38,3 @@ I'm an Undergraduate Student currently Pursuing a Bachelors in Information Techn
 
 
 
-## 🔥 Streak stats
-<p align="center">
-  <a href="https://github.com/tannuchoudhary/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tannuchoudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tannuchoudhary&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-
-
-
-<!--
-<a href=https://github-readme-stats.vercel.app">
--->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannuchoudhary&layout=compact" alt="tannuchoudhary" />
- </a>
-
-
-<a href="https://github.com/tannuchoudhary/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tannuchoudhary&show_icons=true&theme=radical&count_private=true" alt="Tannu Kumari stats" />
-</a>
-<br />
-<br />
-
-Thanks!! ✌️
-<p align="center">
-
-<a href="https://www.linkedin.com/in/tannu-kumari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tannuchoudhary" height="30" width="30" /></a>
-
-
-
-</a>
-</p>
