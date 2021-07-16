@@ -20,12 +20,10 @@
 <br>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tannu-kumari/" target="_blank"><img align="center" <i class="fab fa-linkedin"></i>alt="tannuchoudhary" height="20" width="20" /></a>
-
 
   
 </p>
 <br>
 <br>
 <br>
-{"mode":"full","isActive":false}
+
