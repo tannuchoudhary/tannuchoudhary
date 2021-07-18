@@ -37,4 +37,15 @@
 <br>
 <br>
 <br> -->
-![](https://komarev.com/ghpvc/?username=tannuchoudhary10&color=red)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=tannuchoudhary)
+</br>
+
+
+         
+         
+         
+
+</code>
+
+![](https://komarev.com/ghpvc/?username=tannuchoudhary&color=red)
