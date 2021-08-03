@@ -13,6 +13,9 @@
   <!--<img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="200"> -->
  
   </p>
+  </p>
+  
+  <p align="center">
   
   <br>
   <br>
@@ -30,7 +33,7 @@
   
   
   
- </p> 
+ 
                                                                                
 <br>
 <br>
@@ -57,7 +60,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tannuchoudhary&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
-   
+</p>
 
 </code>
 
