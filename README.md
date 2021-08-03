@@ -1,7 +1,5 @@
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="150">
@@ -9,8 +7,10 @@
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="150">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="150">
   <br>
-  <img src="https://github.com/tannuchoudhary/tannuchoudhary/blob/main/image/ISO_C%2B%2B_Logo.svg" width="150">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150">
+  <br>
+  <img src="https://github.com/tannuchoudhary/tannuchoudhary/blob/main/image/ISO_C%2B%2B_Logo.svg" width="130">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130">
+  <br>
   <br>
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="150">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150">
