@@ -13,7 +13,6 @@
   <!--<img src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="200"> -->
  
   </p>
-</p>
   
   <br>
   <br>
@@ -31,7 +30,7 @@
   
   
   
-  
+ </p> 
                                                                                
 <br>
 <br>
