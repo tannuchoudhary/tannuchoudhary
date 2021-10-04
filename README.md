@@ -30,11 +30,7 @@
 <!--   <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="100"> -->
-  
-  
-  
- 
-                                                                               
+                                                                                 
 <br>
 <br>
                                                                                
@@ -45,14 +41,6 @@
 <br>
 <br>
 <br>
-<!-- <p align="center">
-
-
-  
-</p>
-<br>
-<br>
-<br> -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tannuchoudhary)
 
@@ -63,14 +51,19 @@
 
 ---
   
-</code>
-![tannuchoudhary's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tannuchoudhary&theme=rogue&hide_border=true&area=true)
+
+[![Tannu's github activity graph](https://activity-graph.herokuapp.com/graph?username=tannuchoudhary&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph)
+
+  
 
 ---
+  
+
 <!-- QUOTE:START -->
 <p align="center"><br><i>Nobody will believe in you unless you believe in yourself.</i><br><i>– Liberace.</i><br></p>
 <!-- QUOTE:END -->
 
+</code>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=tannuchoudhary&color=44CC11)
