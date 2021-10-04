@@ -60,14 +60,17 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tannuchoudhary&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
-</p>
 
+---
+  
 </code>
-![Tannu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tannuchoudhary&theme=rogue&hide_border=true&area=true)
+![tannuchoudhary's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tannuchoudhary&theme=rogue&hide_border=true&area=true)
 
 ---
 <!-- QUOTE:START -->
 <p align="center"><br><i>Nobody will believe in you unless you believe in yourself.</i><br><i>– Liberace.</i><br></p>
 <!-- QUOTE:END -->
+
+</p>
 
 ![](https://komarev.com/ghpvc/?username=tannuchoudhary&color=44CC11)
