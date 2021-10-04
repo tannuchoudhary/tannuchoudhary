@@ -63,5 +63,8 @@
 </p>
 
 </code>
+<!-- QUOTE:START -->
+<p align="center"><br><i>Nobody will believe in you unless you believe in yourself.</i><br><i>– Liberace.</i><br></p>
+<!-- QUOTE:END -->
 
 ![](https://komarev.com/ghpvc/?username=tannuchoudhary&color=44CC11)
