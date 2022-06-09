@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="150">
   <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="150">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="150">
+  <img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="180">
   <br>
   <br>
   <p align="center">
@@ -33,7 +34,7 @@
                                                                                  
 <br>
 <br>
-                                                                               
+   <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="800">                                                                            
   
 <br>
 <br>
