@@ -49,14 +49,10 @@
          
 
 ---
-  
-
-[![Tannu's github activity graph](https://activity-graph.herokuapp.com/graph?username=tannuchoudhary&theme=react-dark)](https://github.com/tannuchoudhary/github-readme-activity-graph)
-
-  
+   
 
 ---
   </code>
 </p>
 
-![](https://komarev.com/ghpvc/?username=tannuchoudhary&color=44CC11)
+
