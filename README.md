@@ -37,22 +37,12 @@
    <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="800">                                                                            
   
 <br>
-<br>
-<br>
-<br>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=tannuchoudhary)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tannuchoudhary&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
-         
-
----
-   
-
----
   </code>
 </p>
 
-
+### 🚀 Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contri-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contri.svg" />
+  <img alt="github-snake" src="./assets/contri-dark.svg" />
+</picture>
