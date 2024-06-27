@@ -25,17 +25,15 @@
   <br>
   <br>
   <img src="https://github.com/tannuchoudhary/tannuchoudhary/blob/main/image/ISO_C%2B%2B_Logo.svg" width="130">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130">
+<!--   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="130"> -->
   
 <!--   <img src="https://media.giphy.com/media/qHzzDO357GwCBpn8uT/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/FVOmnX9L69CoQntslz/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif" width="100"> -->
                                                                                  
 <br>
-<br>
-   <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="800">                                                                            
-  
-<br>
+<!--    <img src="https://media.giphy.com/media/j3hl83ILQ5aQJJspLu/giphy.gif" width="800">                                                                             -->
+
   </code>
 </p>
 
